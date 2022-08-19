@@ -7,6 +7,7 @@ import plotly.express as px
 from matplotlib import pyplot as plt
 import plotly.graph_objects as go
 
+# pip install plotly
 # For Excel file use
 # info = pd.read_excel('titles.xlsx')
 # Convert info into DataFrame using
